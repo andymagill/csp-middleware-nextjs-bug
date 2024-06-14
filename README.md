@@ -1,4 +1,4 @@
-This repo demostrates a bug in the middleware of production builds of Next.JS typescipt projects.
+This repo demostrates a bug in middleware of production builds of Next.JS TypeScript projects.
 
 Created from the reproduction template of next.js : 
 https://github.com/vercel/next.js/tree/canary/examples/reproduction-template
